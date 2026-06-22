@@ -32,35 +32,65 @@ Actively seeking data analyst and data science roles.
 ## Skills
 
 <div align="center">
+<table width="88%" cellpadding="14" cellspacing="0" border="0">
+<tbody>
 
-**Languages**
+<tr bgcolor="#0F172A">
+<td width="155" align="right" valign="middle"><sub><b>Languages</b></sub></td>
+<td align="left" valign="middle">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</td>
+</tr>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<tr bgcolor="#111827">
+<td align="right" valign="middle"><sub><b>Data Analytics</b></sub></td>
+<td align="left" valign="middle">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</td>
+</tr>
 
-**Analytics**
+<tr bgcolor="#0F172A">
+<td align="right" valign="middle"><sub><b>Visualization</b></sub></td>
+<td align="left" valign="middle">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+</td>
+</tr>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<tr bgcolor="#111827">
+<td align="right" valign="middle"><sub><b>Machine Learning</b></sub></td>
+<td align="left" valign="middle">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+</td>
+</tr>
 
-**Visualization**
+<tr bgcolor="#0F172A">
+<td align="right" valign="middle"><sub><b>Web &amp; Backend</b></sub></td>
+<td align="left" valign="middle">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</td>
+</tr>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+<tr bgcolor="#111827">
+<td align="right" valign="middle"><sub><b>Developer Tools</b></sub></td>
+<td align="left" valign="middle">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</td>
+</tr>
 
-**Machine Learning**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+</tbody>
+</table>
 </div>
 
 ---
