@@ -177,7 +177,7 @@ INSIGHT   : Demonstrates structured thinking and
 <table border="0" cellspacing="0" cellpadding="6">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=anascs12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=67E8F9&icon_color=5B21B6&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anascs12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=67E8F9&icon_color=5B21B6&text_color=C9D1D9" alt="GitHub Stats" />
 </td>
 <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anascs12&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Top Languages" />
