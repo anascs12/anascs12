@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1A1B27,100:73DACA&height=200&section=header&text=Anas%20Khan&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=Data%20Analyst&descSize=24&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1A1B27,100:73DACA&height=200&section=header&text=Anas%20Khan&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=Data%20Scientist%20%26%20Data%20Analyst&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=73DACA&center=true&vCenter=true&width=700&height=45&lines=I+turn+messy+data+into+dashboards+people+use;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;EDA+%E2%86%92+insight+%E2%86%92+decision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=73DACA&center=true&vCenter=true&width=700&height=45&lines=Data+Scientist+%26+Data+Analyst;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Machine+Learning+%E2%80%A2+EDA+%E2%80%A2+Dashboards;I+turn+messy+data+into+decisions" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -22,13 +22,13 @@
 
 ## About
 
-I clean, reshape, and explore datasets to find patterns worth acting on. I build Power BI dashboards to make findings navigable for non-technical audiences, and write SQL to pull answers out of relational databases. Currently working through machine learning fundamentals — regression, classification, and Scikit-learn. Based in Peshawar, Pakistan; actively looking for analyst and data science roles.
+I clean, reshape, and explore datasets to find patterns worth acting on. I build Power BI dashboards to make findings navigable for non-technical audiences, write SQL to pull answers from relational databases, and build machine learning models — regression, classification, and clustering — with scikit-learn. Based in Peshawar, Pakistan; looking for data scientist and data analyst roles.
 
 ---
 
 ## Featured Projects
 
-> **Add screenshots:** drop dashboard images into `assets/` and they will appear below automatically.
+> **Add screenshots:** save your images with the exact filenames below, drop them into `assets/`, commit and push — then uncomment the `<img>` line inside each project cell to replace the placeholder.
 
 <table>
 <tr>
@@ -43,7 +43,9 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
-<img src="assets/life-expectancy-dashboard.png" width="100%" alt="Life Expectancy Dashboard" />
+<!-- File: assets/life-expectancy.png — uncomment when ready -->
+<!-- <img src="assets/life-expectancy.png" width="100%" alt="Life Expectancy Dashboard" /> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:0D2535&height=90&text=Dashboard%20preview%20%E2%80%94%20screenshot%20coming&fontSize=13&fontColor=73DACA&fontAlignY=50" width="100%" alt="placeholder" />
 
 </td>
 <td width="50%" valign="top">
@@ -56,7 +58,9 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
-<img src="assets/ai-job-dashboard.png" width="100%" alt="AI Job Dashboard" />
+<!-- File: assets/ai-jobs.png — uncomment when ready -->
+<!-- <img src="assets/ai-jobs.png" width="100%" alt="AI Job Dashboard" /> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:0D2535&height=90&text=Dashboard%20preview%20%E2%80%94%20screenshot%20coming&fontSize=13&fontColor=73DACA&fontAlignY=50" width="100%" alt="placeholder" />
 
 </td>
 </tr>
@@ -74,7 +78,9 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
 </p>
 
-<img src="assets/customer-sales-analysis.png" width="100%" alt="Customer Sales Analysis" />
+<!-- File: assets/customer-sales.png — uncomment when ready -->
+<!-- <img src="assets/customer-sales.png" width="100%" alt="Customer Sales Analysis" /> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:0D2535&height=90&text=Chart%20preview%20%E2%80%94%20screenshot%20coming&fontSize=13&fontColor=73DACA&fontAlignY=50" width="100%" alt="placeholder" />
 
 </td>
 <td width="50%" valign="top">
@@ -87,7 +93,9 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-<img src="assets/hostel-management-system.png" width="100%" alt="Hostel Management System" />
+<!-- File: assets/hostel-system.png — uncomment when ready -->
+<!-- <img src="assets/hostel-system.png" width="100%" alt="Hostel Management System" /> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:0D2535&height=90&text=Terminal%20preview%20%E2%80%94%20screenshot%20coming&fontSize=13&fontColor=73DACA&fontAlignY=50" width="100%" alt="placeholder" />
 
 </td>
 </tr>
@@ -116,6 +124,10 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Tools**
 
@@ -172,7 +184,7 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
 
 <br>
 
-Open to data analyst and data science opportunities &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/anas-khan-ds/">Let's connect</a>
+Open to data scientist and data analyst roles &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/anas-khan-ds/">Let's connect</a>
 
 <br>
 
