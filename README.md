@@ -1,162 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1E1B4B,100:5B21B6&height=220&section=header&text=ANAS%20KHAN&fontSize=72&fontColor=67E8F9&fontAlignY=42&desc=Data%20Analyst%20%7C%20Data%20Science%20Student&descSize=22&descAlignY=62&descAlignX=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0F172A,100:1E40AF&height=200&section=header&text=Anas%20Khan&fontSize=65&fontColor=FFFFFF&fontAlignY=42&desc=Data%20Analyst%20%7C%20Data%20Science%20Student&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=750&height=45&lines=>>+Initializing+Data+Analysis+Sequence...;>>+Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;>>+Transforming+Raw+Data+into+Business+Intelligence;>>+scikit-learn+%7C+Pandas+%7C+NumPy+%7C+Matplotlib;>>+System+ready.+All+modules+operational." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&height=45&lines=Data+Analysis;Power+BI+Dashboards;Python+%26+SQL;Machine+Learning+Basics;Turning+Data+into+Insights" alt="Typing SVG" />
 
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-khan-ds/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anascs12)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge)](YOUR_PORTFOLIO_URL)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:0D1117&height=3&section=header" width="100%" />
+## About
 
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%88%20SYSTEM%20PROFILE%20%E2%96%88-1E1B4B?style=for-the-badge&labelColor=5B21B6&color=1E1B4B&logoColor=67E8F9" />
-</div>
+Data analyst and data science student based in Peshawar, Pakistan.
 
-```text
-> UNIT:         Anas Khan
-> ROLE:         Data Analyst | Data Science Student
-> LOCATION:     Peshawar, Pakistan
-> OBJECTIVE:    Transform raw datasets into decisions that move organizations forward
-> DOMAIN:       Business Intelligence · Exploratory Analysis · Machine Learning
-> STATUS:       [AVAILABLE] — Open to data analyst and data science opportunities
-> STACK:        Python · SQL · Power BI · Pandas · scikit-learn
-```
+I work with Python, SQL, and Power BI to explore datasets, build dashboards, and surface insights that are actionable for decision-makers. My focus is exploratory analysis, business intelligence, and clear visual communication.
+
+Currently developing machine learning skills with Scikit-Learn — working through regression, classification, and model validation pipelines.
+
+Actively seeking data analyst and data science roles.
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%88%20SKILL%20MATRIX%20%E2%96%88-1E1B4B?style=for-the-badge&labelColor=5B21B6&color=1E1B4B" />
-</div>
-
-<br>
+## Skills
 
 <div align="center">
 
-**`// LANGUAGES`**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**`// DATA ANALYSIS`**
+**Analytics**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**`// VISUALIZATION`**
+**Visualization**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-**`// MACHINE LEARNING`**
+**Machine Learning**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**`// TOOLS`**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%88%20PROJECT%20COMMAND%20CENTER%20%E2%96%88-1E1B4B?style=for-the-badge&labelColor=5B21B6&color=1E1B4B" />
-</div>
-
-<br>
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**`[ MODULE-01 ]` — [Life Expectancy Analysis](https://github.com/anascs12/Life-expectancy-data-analysis)**
+**[Life Expectancy Analysis](https://github.com/anascs12/Life-expectancy-data-analysis)**
 
-```
-OBJECTIVE : Identify global health & economic drivers
-DATASET   : 190+ countries | WHO multi-decade records
-PROCESS   : EDA → correlation matrix → Power BI dashboard
-INSIGHT   : GDP & education correlate stronger than
-            healthcare spend in low-income regions
-```
+**Problem** — Which economic and social factors explain life expectancy disparities across countries?
+
+**Dataset** — 190+ countries · WHO multi-decade health records
+
+**Insight** — GDP per capita and education levels predict life expectancy more strongly than healthcare expenditure in low-income nations. Built a regional comparison dashboard across all 6 WHO regions.
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<!-- Add screenshot: assets/life-expectancy.png, then replace the line below -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1E1B4B&height=120&text=VISUALIZATION+DATA+PENDING&fontSize=14&fontColor=67E8F9" width="100%" />
+<!-- Replace with screenshot once saved: <img src="assets/life-expectancy.png" width="100%" /> -->
 
 </td>
 <td width="50%" valign="top">
 
-**`[ MODULE-02 ]` — [AI Job Market Dashboard](https://github.com/anascs12/Ai-job-posting)**
+**[AI Job Market Dashboard](https://github.com/anascs12/Ai-job-posting)**
 
-```
-OBJECTIVE : Map global AI hiring landscape
-DATASET   : 15,000+ job postings | 20 countries
-PROCESS   : Power BI model → DAX measures → visual report
-INSIGHT   : US & EU dominate volume; APAC leads salary
-            growth for ML engineering roles
-```
+**Problem** — How does demand for AI skills vary across roles, salaries, and geographies?
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+**Dataset** — 15,000+ job postings · 20 countries
 
-<!-- Add screenshot: assets/ai-jobs.png, then replace the line below -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1E1B4B&height=120&text=VISUALIZATION+DATA+PENDING&fontSize=14&fontColor=67E8F9" width="100%" />
+**Insight** — US and EU lead on hiring volume; APAC shows accelerating salary growth for ML engineering roles. Python, SQL, and cloud platforms appear as required skills in the majority of postings.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+<!-- Replace with screenshot once saved: <img src="assets/ai-jobs.png" width="100%" /> -->
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**`[ MODULE-03 ]` — [Customer Sales Analysis](https://github.com/anascs12/Customer-sales-data)**
+**[Customer Sales Analysis](https://github.com/anascs12/Customer-sales-data)**
 
-```
-OBJECTIVE : Surface revenue patterns & seasonality
-DATASET   : Customer transaction records
-PROCESS   : Pandas cleaning → NumPy stats → Matplotlib viz
-INSIGHT   : Top 20% of products drive 68% of revenue;
-            Q4 seasonal spike predictable 6 weeks early
-```
+**Problem** — Where is revenue concentrated, and what patterns drive seasonal behaviour?
+
+**Dataset** — Customer transaction records
+
+**Insight** — A small subset of products drives the majority of revenue. Seasonal spikes follow consistent trailing patterns, making them predictable well in advance with basic time-series analysis.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-<!-- Add screenshot: assets/customer-sales.png, then replace the line below -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1E1B4B&height=120&text=VISUALIZATION+DATA+PENDING&fontSize=14&fontColor=67E8F9" width="100%" />
+<!-- Replace with screenshot once saved: <img src="assets/customer-sales.png" width="100%" /> -->
 
 </td>
 <td width="50%" valign="top">
 
-**`[ MODULE-04 ]` — [Hostel Management System](https://github.com/anascs12/hostel-management-system-using-oop-cpp)**
+**[Hostel Management System](https://github.com/anascs12/hostel-management-system-using-oop-cpp)**
 
-```
-OBJECTIVE : OOP-based hostel administration system
-DATASET   : N/A — software engineering project
-PROCESS   : Class design → inheritance → file I/O
-INSIGHT   : Demonstrates structured thinking and
-            software architecture discipline in C++
-```
+**Problem** — Build an administrative system for hostel operations using object-oriented design.
+
+**Dataset** — N/A — software engineering project
+
+**Insight** — Implements room allocation, student registration, and billing through class hierarchies, inheritance, and file I/O — demonstrates structured software design thinking in C++.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
@@ -166,21 +138,30 @@ INSIGHT   : Demonstrates structured thinking and
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%88%20ANALYTICS%20DASHBOARD%20%E2%96%88-1E1B4B?style=for-the-badge&labelColor=5B21B6&color=1E1B4B" />
-</div>
+## Visual Assets
 
-<br>
+Project screenshots will render inside each card above once added to `assets/`.
+
+| | |
+|---|---|
+| ☐ | Export Life Expectancy Power BI dashboard → save as `assets/life-expectancy.png` |
+| ☐ | Export AI Job Market dashboard → save as `assets/ai-jobs.png` |
+| ☐ | Export Customer Sales charts → save as `assets/customer-sales.png` |
+| ☐ | `git add assets/ && git commit -m "add: project screenshots" && git push` |
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="6">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=anascs12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=67E8F9&icon_color=5B21B6&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anascs12&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anascs12&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anascs12&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -189,14 +170,10 @@ INSIGHT   : Demonstrates structured thinking and
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%88%20ACTIVITY%20SYSTEM%20MAP%20%E2%96%88-1E1B4B?style=for-the-badge&labelColor=5B21B6&color=1E1B4B" />
-</div>
-
-<br>
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anascs12&theme=tokyo-night&hide_border=true&area=true&area_color=5B21B6&line=67E8F9&point=5B21B6" width="100%" alt="Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anascs12&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -211,23 +188,19 @@ INSIGHT   : Demonstrates structured thinking and
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%96%88%20LEARNING%20STATUS%20MODULE%20%E2%96%88-1E1B4B?style=for-the-badge&labelColor=5B21B6&color=1E1B4B" />
-</div>
+## Currently Learning
 
-```text
-[ ACTIVE  ]  Machine Learning — regression, classification, cross-validation, scikit-learn pipelines
-[ ACTIVE  ]  Statistical Analysis — hypothesis testing, probability distributions on real datasets
-[ LOADING ]  Advanced Data Visualization — dashboard design principles, storytelling with data
-[ QUEUED  ]  End-to-End Projects — raw ingestion → cleaning → analysis → deployable insight delivery
-```
+- **Machine Learning** — regression, classification, model evaluation, and Scikit-Learn pipelines
+- **Statistical Analysis** — hypothesis testing and probability distributions applied to real datasets
+- **Advanced Data Visualization** — dashboard design principles and storytelling with data
+- **End-to-End Projects** — full workflows from raw data ingestion through analysis to delivered insight
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1E1B4B,100:5B21B6&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:0D1117&height=80&section=footer" width="100%" />
 
-`>> System offline. Thanks for visiting.`
+<sub>Thanks for visiting.</sub>
 
 </div>
