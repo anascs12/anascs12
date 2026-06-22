@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0F172A,100:1E40AF&height=200&section=header&text=Anas%20Khan&fontSize=65&fontColor=FFFFFF&fontAlignY=42&desc=Data%20Analyst%20%7C%20Data%20Science%20Student&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0F172A,100:1E40AF&height=240&section=header&text=Anas%20Khan&fontSize=72&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Analyst%20%7C%20Data%20Science%20Student&descSize=22&descAlignY=58&animation=twinkling" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Data+Analysis;Power+BI+Dashboards;Python+%26+SQL;Machine+Learning+Basics;Turning+Data+into+Insights" alt="Typing SVG" />
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&height=45&lines=Data+Analysis;Power+BI+Dashboards;Python+%26+SQL;Machine+Learning+Basics;Turning+Data+into+Insights" alt="Typing SVG" />
-
-<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-khan-ds/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anascs12)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
 
-</div>
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:0D1117&height=100&section=footer" width="100%" />
+
+</div>
 
 ## About
 
