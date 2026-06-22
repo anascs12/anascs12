@@ -85,7 +85,7 @@ Actively seeking data analyst and data science roles.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-[▶ Watch Demo](assets/builtims.mp4)
+[![LinkedIn Post](https://img.shields.io/badge/View%20Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/anas-khan-ds_databasesystems-webdevelopment-machinelearning-activity-7473430707768401920--B79)
 
 </td>
 <td width="50%" valign="top">
@@ -99,6 +99,8 @@ Actively seeking data analyst and data science roles.
 **Insight** — US and EU lead on hiring volume; APAC shows accelerating salary growth for ML engineering roles. Python, SQL, and cloud platforms appear as required skills in the majority of postings.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+[![LinkedIn Post](https://img.shields.io/badge/View%20Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/anas-khan-ds_aijobs-datavisualization-powerbi-activity-7357362856561967104-pO-4)
 
 <img src="assets/ai-jobs.png" width="100%" alt="AI Job Market Dashboard" />
 
@@ -118,6 +120,8 @@ Actively seeking data analyst and data science roles.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
+[![LinkedIn Post](https://img.shields.io/badge/View%20Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/anas-khan-ds_dataanalytics-powerbi-sql-activity-7359893014611140608-Edfk)
+
 <img src="assets/life-expectancy.png" width="100%" alt="Life Expectancy Dashboard" />
 
 </td>
@@ -135,6 +139,8 @@ Actively seeking data analyst and data science roles.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+[![LinkedIn Post](https://img.shields.io/badge/View%20Post-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/anas-khan-ds_dataanalytics-portfolio-python-activity-7372580522931146752-4qNt)
 
 <img src="assets/customer-sales.png" width="100%" alt="Customer Sales Analysis" />
 
