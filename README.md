@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1A1B27,100:73DACA&height=200&section=header&text=Anas%20Khan&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=Data%20Scientist%20%26%20Data%20Analyst&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1A1B27,100:73DACA&height=200&section=header&text=Anas%20Khan&fontSize=65&fontColor=FFFFFF&fontAlignY=42&desc=Data%20Analyst%20%7C%20Data%20Science%20Student&descSize=22&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=73DACA&center=true&vCenter=true&width=700&height=45&lines=Data+Scientist+%26+Data+Analyst;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Machine+Learning+%E2%80%A2+EDA+%E2%80%A2+Dashboards;I+turn+messy+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=73DACA&center=true&vCenter=true&width=700&height=45&lines=Data+Analysis;Power+BI+Dashboards;Python+%26+SQL;Machine+Learning+Fundamentals;Turning+Data+into+Insights" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-khan-ds/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anascs12)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge)](YOUR_PORTFOLIO_URL)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2A3C?style=for-the-badge)](YOUR_PORTFOLIO_URL)
 
 </div>
 
@@ -22,84 +22,11 @@
 
 ## About
 
-I clean, reshape, and explore datasets to find patterns worth acting on. I build Power BI dashboards to make findings navigable for non-technical audiences, write SQL to pull answers from relational databases, and build machine learning models — regression, classification, and clustering — with scikit-learn. Based in Peshawar, Pakistan; looking for data scientist and data analyst roles.
-
----
-
-## Featured Projects
-
-> **Add screenshots:** save your images with the exact filenames below, drop them into `assets/`, commit and push — then uncomment the `<img>` line inside each project cell to replace the placeholder.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h4><a href="https://github.com/anascs12/Life-expectancy-data-analysis">Life Expectancy Analysis</a></h4>
-
-<p>EDA on how GDP, healthcare spend, and schooling correlate with life expectancy across 190+ countries.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
-
-<!-- File: assets/life-expectancy.png — uncomment when ready -->
-<!-- <img src="assets/life-expectancy.png" width="100%" alt="Life Expectancy Dashboard" /> -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:0D2535&height=90&text=Dashboard%20preview%20%E2%80%94%20screenshot%20coming&fontSize=13&fontColor=73DACA&fontAlignY=50" width="100%" alt="placeholder" />
-
-</td>
-<td width="50%" valign="top">
-
-<h4><a href="https://github.com/anascs12/Ai-job-posting">AI Job Postings Dashboard</a></h4>
-
-<p>Power BI dashboard across 15 K+ AI job listings in 20 countries — salary bands, skill frequency, and hiring trends.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
-
-<!-- File: assets/ai-jobs.png — uncomment when ready -->
-<!-- <img src="assets/ai-jobs.png" width="100%" alt="AI Job Dashboard" /> -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:0D2535&height=90&text=Dashboard%20preview%20%E2%80%94%20screenshot%20coming&fontSize=13&fontColor=73DACA&fontAlignY=50" width="100%" alt="placeholder" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4><a href="https://github.com/anascs12/Customer-sales-data">Customer Sales Analysis</a></h4>
-
-<p>Sales-trend analysis in Python — revenue patterns, top products, and seasonal shifts using pandas and matplotlib.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-</p>
-
-<!-- File: assets/customer-sales.png — uncomment when ready -->
-<!-- <img src="assets/customer-sales.png" width="100%" alt="Customer Sales Analysis" /> -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:0D2535&height=90&text=Chart%20preview%20%E2%80%94%20screenshot%20coming&fontSize=13&fontColor=73DACA&fontAlignY=50" width="100%" alt="placeholder" />
-
-</td>
-<td width="50%" valign="top">
-
-<h4><a href="https://github.com/anascs12/hostel-management-system-using-oop-cpp">Hostel Management System</a></h4>
-
-<p>C++ OOP system for room allocation, student records, and billing — built with class hierarchies and file I/O.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
-
-<!-- File: assets/hostel-system.png — uncomment when ready -->
-<!-- <img src="assets/hostel-system.png" width="100%" alt="Hostel Management System" /> -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:0D2535&height=90&text=Terminal%20preview%20%E2%80%94%20screenshot%20coming&fontSize=13&fontColor=73DACA&fontAlignY=50" width="100%" alt="placeholder" />
-
-</td>
-</tr>
-</table>
+- Analyze complex datasets to surface patterns that inform business decisions — with a focus on exploratory data analysis, business intelligence, and clear visual communication.
+- Build interactive Power BI dashboards and Excel reports that make findings accessible to non-technical stakeholders.
+- Write Python and SQL pipelines for data cleaning, transformation, and statistical analysis using Pandas, NumPy, and Matplotlib.
+- Building and evaluating machine learning models with Scikit-Learn — regression, classification, and model validation pipelines.
+- Data Science student based in Peshawar, Pakistan — actively seeking data analyst and data science roles.
 
 ---
 
@@ -113,17 +40,16 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Data & Analytics**
+**Data Analysis**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**BI & Viz**
+**Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
 **Machine Learning**
 
@@ -133,13 +59,85 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Stats
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/anascs12/Life-expectancy-data-analysis">Life Expectancy Analysis</a></h4>
+
+<p>EDA on global life expectancy data — examining relationships between GDP per capita, healthcare expenditure, and education levels across 190+ countries. Built a Power BI dashboard to visualize regional disparities and key indicators.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+<!-- Screenshot: save as assets/life-expectancy.png, then uncomment the line below -->
+<!-- <img src="assets/life-expectancy.png" width="100%" alt="Life Expectancy Dashboard" /> -->
+<p align="center"><i>📸 Add <code>assets/life-expectancy.png</code> to display dashboard</i></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/anascs12/Ai-job-posting">AI Job Market Dashboard</a></h4>
+
+<p>Power BI dashboard built on 15,000+ AI job postings across 20 countries — visualizing salary distributions, most demanded skills, role categories, and geographic hiring patterns across the global AI industry.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+<!-- Screenshot: save as assets/ai-jobs.png, then uncomment the line below -->
+<!-- <img src="assets/ai-jobs.png" width="100%" alt="AI Job Market Dashboard" /> -->
+<p align="center"><i>📸 Add <code>assets/ai-jobs.png</code> to display dashboard</i></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/anascs12/Customer-sales-data">Customer Sales Analysis</a></h4>
+
+<p>End-to-end Python analysis of customer sales data — data cleaning and transformation with Pandas, statistical summaries with NumPy, and visualization of revenue trends, top products, and seasonal patterns using Matplotlib.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+</p>
+
+<!-- Screenshot: save as assets/customer-sales.png, then uncomment the line below -->
+<!-- <img src="assets/customer-sales.png" width="100%" alt="Customer Sales Analysis" /> -->
+<p align="center"><i>📸 Add <code>assets/customer-sales.png</code> to display charts</i></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4><a href="https://github.com/anascs12/hostel-management-system-using-oop-cpp">Hostel Management System</a></h4>
+
+<p>C++ object-oriented system for hostel administration — room allocation, student registration, and billing management built using class hierarchies, inheritance, and file I/O. Demonstrates software design and OOP principles.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -158,15 +156,13 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
 
 ---
 
-## Activity
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anascs12&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anascs12&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
 </div>
 
----
-
-## Contribution Snake
+<br>
 
 <div align="center">
   <picture>
@@ -178,16 +174,13 @@ I clean, reshape, and explore datasets to find patterns worth acting on. I build
 
 ---
 
-<div align="center">
+## Currently Learning
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=73DACA&height=2" width="100%" />
+- **Machine Learning** — building and evaluating regression and classification models, cross-validation, and Scikit-Learn pipelines
+- **Statistical Analysis** — hypothesis testing and probability distributions applied to real datasets
+- **Advanced Data Visualization** — dashboard design principles, storytelling with data, and complex chart types
+- **End-to-End Projects** — complete workflows from raw data ingestion through cleaning, analysis, and insight delivery
 
-<br>
+---
 
-Open to data scientist and data analyst roles &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/anas-khan-ds/">Let's connect</a>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:73DACA,100:0D1117&height=80&section=footer" width="100%" />
-
-</div>
+<p align="center">Thanks for visiting my profile.</p>
