@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:7057FF&height=220&section=header&text=Anas%20Khan&fontSize=72&animation=fadeIn&fontColor=FFFFFF&desc=Turning%20data%20into%20actionable%20insights&descSize=22&descAlignY=62&fontAlignY=38" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:7057FF,100:70A5FD&height=230&section=header&text=Anas%20Khan&fontSize=72&animation=fadeIn&fontColor=FFFFFF&desc=Turning%20data%20into%20actionable%20insights&descSize=22&descAlignY=63&fontAlignY=38" width="100%" alt="header" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&height=50&lines=Aspiring+Data+Scientist;Data+Analyst;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Turning+data+into+insights" alt="Typing SVG" />
@@ -10,14 +10,14 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-khan-ds/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anascs12)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaskhanbjr84@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7057FF?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -28,43 +28,58 @@
 - 🤖 Currently diving into **Machine Learning** fundamentals: regression, classification, and model evaluation
 - 📍 Based in **Peshawar, Pakistan** · Open to remote data roles and collaborations
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
 ## 🎯 Skills & Expertise
 
 | Domain | Proficiency | Tools & Libraries |
 |:-------|:-----------:|:------------------|
-| 📊 Data Analysis | ▰▰▰▰▱ Advanced | Excel · Power BI · Python |
-| 📈 Data Visualization | ▰▰▰▰▱ Advanced | Power BI · Matplotlib · Excel Charts |
-| 🗄️ SQL / Databases | ▰▰▰▱▱ Proficient | MySQL · SQLite |
-| 🐍 Python | ▰▰▰▱▱ Proficient | Pandas · NumPy · Jupyter |
-| 🤖 Machine Learning | ▰▰▱▱▱ Learning | Scikit-learn · Regression · Classification |
+| 📊 Data Analysis      | ▰▰▰▰▰ Expert   | Excel · Power BI · Python            |
+| 📈 Data Visualization | ▰▰▰▰▰ Expert   | Power BI · Matplotlib · Excel Charts |
+| 🗄️ SQL / Databases   | ▰▰▰▰▰ Expert   | MySQL · SQLite                       |
+| 🐍 Python             | ▰▰▰▰▰ Expert   | Pandas · NumPy · Jupyter             |
+| 💻 C++                | ▰▰▰▰▰ Expert   | OOP · Data Structures · STL          |
+| 🤖 Machine Learning   | ▰▰▱▱▱ Learning | Scikit-learn · Regression            |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**— Languages —**
+![Languages](https://img.shields.io/badge/Languages-7057FF?style=for-the-badge&logoColor=white)
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**— Data & Analytics —**
+<br>
+
+![Data & Analytics](https://img.shields.io/badge/Data%20%26%20Analytics-70A5FD?style=for-the-badge&logoColor=white)
+
+<br>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**— BI & Visualization —**
+<br>
+
+![BI & Visualization](https://img.shields.io/badge/BI%20%26%20Visualization-BB9AF7?style=for-the-badge&logoColor=white)
+
+<br>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**— Tools —**
+<br>
+
+![Tools](https://img.shields.io/badge/Tools-73DACA?style=for-the-badge&logoColor=white)
+
+<br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -72,7 +87,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
 ## 📌 Featured Projects
 
@@ -96,7 +111,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
 ## 📊 GitHub Analytics
 
@@ -119,7 +134,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
 ## 🏆 GitHub Trophies
 
@@ -127,7 +142,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=anascs12&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
 ## 📈 Activity Graph
 
@@ -135,7 +150,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anascs12&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -147,14 +162,18 @@
   </picture>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
 <div align="center">
+
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anascs12&color=7057FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Thanks for visiting! If something sparked your interest, drop a ⭐ — it helps a lot.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7057FF,100:1A1B27&height=100&section=footer" width="100%" alt="footer" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
