@@ -82,7 +82,7 @@ Actively seeking data analyst and data science roles.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<!-- Replace with screenshot once saved: <img src="assets/life-expectancy.png" width="100%" /> -->
+<img src="assets/life-expectancy.png" width="100%" alt="Life Expectancy Dashboard" />
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +97,7 @@ Actively seeking data analyst and data science roles.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-<!-- Replace with screenshot once saved: <img src="assets/ai-jobs.png" width="100%" /> -->
+<img src="assets/ai-jobs.png" width="100%" alt="AI Job Market Dashboard" />
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ Actively seeking data analyst and data science roles.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-<!-- Replace with screenshot once saved: <img src="assets/customer-sales.png" width="100%" /> -->
+<img src="assets/customer-sales.png" width="100%" alt="Customer Sales Analysis" />
 
 </td>
 <td width="50%" valign="top">
@@ -130,6 +130,8 @@ Actively seeking data analyst and data science roles.
 
 **Role** — Lead Developer
 
+<video src="assets/builtims.mp4" width="100%" controls></video>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -139,19 +141,6 @@ Actively seeking data analyst and data science roles.
 </td>
 </tr>
 </table>
-
----
-
-## Visual Assets
-
-Project screenshots will render inside each card above once added to `assets/`.
-
-| | |
-|---|---|
-| ☐ | Life Expectancy Power BI dashboard → save as `assets/life-expectancy.png` |
-| ☐ | AI Job Market dashboard → save as `assets/ai-jobs.png` |
-| ☐ | Customer Sales charts → save as `assets/customer-sales.png` |
-| ☐ | `git add assets/ && git commit -m "add: project screenshots" && git push` |
 
 ---
 
