@@ -71,18 +71,21 @@ Actively seeking data analyst and data science roles.
 <tr>
 <td width="50%" valign="top">
 
-**[Life Expectancy Analysis](https://github.com/anascs12/Life-expectancy-data-analysis)**
+**[builtIMS](https://github.com/anascs12/builtIMS)**
 
-**Problem** — Which economic and social factors explain life expectancy disparities across countries?
+**Problem** — IMSciences student developers had no shared platform to submit projects, compete on coding challenges, or collaborate on ideas.
 
-**Dataset** — 190+ countries · WHO multi-decade health records
+**Built** — Full-stack web app: project showcase with voting, semester-aware coding challenges with streak tracking, faculty-judged showdowns, Hall of Fame rankings, and an ML-powered challenge generator (DistilGPT-2).
 
-**Insight** — GDP per capita and education levels predict life expectancy more strongly than healthcare expenditure in low-income nations. Built a regional comparison dashboard across all 6 WHO regions.
+**Role** — Lead Developer
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<img src="assets/life-expectancy.png" width="100%" alt="Life Expectancy Dashboard" />
+[▶ Watch Demo](assets/builtims.mp4)
 
 </td>
 <td width="50%" valign="top">
@@ -104,6 +107,22 @@ Actively seeking data analyst and data science roles.
 <tr>
 <td width="50%" valign="top">
 
+**[Life Expectancy Analysis](https://github.com/anascs12/Life-expectancy-data-analysis)**
+
+**Problem** — Which economic and social factors explain life expectancy disparities across countries?
+
+**Dataset** — 190+ countries · WHO multi-decade health records
+
+**Insight** — GDP per capita and education levels predict life expectancy more strongly than healthcare expenditure in low-income nations. Built a regional comparison dashboard across all 6 WHO regions.
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+<img src="assets/life-expectancy.png" width="100%" alt="Life Expectancy Dashboard" />
+
+</td>
+<td width="50%" valign="top">
+
 **[Customer Sales Analysis](https://github.com/anascs12/Customer-sales-data)**
 
 **Problem** — Where is revenue concentrated, and what patterns drive seasonal behaviour?
@@ -118,25 +137,6 @@ Actively seeking data analyst and data science roles.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
 <img src="assets/customer-sales.png" width="100%" alt="Customer Sales Analysis" />
-
-</td>
-<td width="50%" valign="top">
-
-**[builtIMS](https://github.com/anascs12/builtIMS)**
-
-**Problem** — IMSciences student developers had no shared platform to submit projects, compete on coding challenges, or collaborate on ideas.
-
-**Built** — Full-stack web app featuring project showcase with voting, semester-aware coding challenges with streak tracking, faculty-judged showdowns, Hall of Fame rankings, and an ML-powered challenge generator (DistilGPT-2).
-
-**Role** — Lead Developer
-
-<video src="assets/builtims.mp4" width="100%" controls></video>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
