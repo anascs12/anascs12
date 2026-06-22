@@ -122,15 +122,19 @@ Actively seeking data analyst and data science roles.
 </td>
 <td width="50%" valign="top">
 
-**[Hostel Management System](https://github.com/anascs12/hostel-management-system-using-oop-cpp)**
+**[builtIMS](https://github.com/anascs12/builtIMS)**
 
-**Problem** — Build an administrative system for hostel operations using object-oriented design.
+**Problem** — IMSciences student developers had no shared platform to submit projects, compete on coding challenges, or collaborate on ideas.
 
-**Dataset** — N/A — software engineering project
+**Built** — Full-stack web app featuring project showcase with voting, semester-aware coding challenges with streak tracking, faculty-judged showdowns, Hall of Fame rankings, and an ML-powered challenge generator (DistilGPT-2).
 
-**Insight** — Implements room allocation, student registration, and billing through class hierarchies, inheritance, and file I/O — demonstrates structured software design thinking in C++.
+**Role** — Lead Developer
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -144,9 +148,9 @@ Project screenshots will render inside each card above once added to `assets/`.
 
 | | |
 |---|---|
-| ☐ | Export Life Expectancy Power BI dashboard → save as `assets/life-expectancy.png` |
-| ☐ | Export AI Job Market dashboard → save as `assets/ai-jobs.png` |
-| ☐ | Export Customer Sales charts → save as `assets/customer-sales.png` |
+| ☐ | Life Expectancy Power BI dashboard → save as `assets/life-expectancy.png` |
+| ☐ | AI Job Market dashboard → save as `assets/ai-jobs.png` |
+| ☐ | Customer Sales charts → save as `assets/customer-sales.png` |
 | ☐ | `git add assets/ && git commit -m "add: project screenshots" && git push` |
 
 ---
