@@ -19,18 +19,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
-## 👨‍💻 About Me
+## 💡 About Me
 
-- 🎯 **Aspiring Data Scientist** passionate about transforming messy raw data into decisions that matter
-- 📊 Skilled in **exploratory data analysis** and building interactive **Power BI dashboards** from scratch
+- 🔭 **Aspiring Data Scientist** passionate about uncovering patterns hidden inside complex datasets
+- 🎨 Skilled in **exploratory data analysis** and crafting interactive **Power BI dashboards** from scratch
 - 🐍 Building fluency in **Python** (Pandas · NumPy · Matplotlib) for end-to-end analytical workflows
-- 🗄️ Proficient in **SQL** — querying, aggregating, and wrangling relational databases with confidence
-- 🤖 Currently diving into **Machine Learning** fundamentals: regression, classification, and model evaluation
-- 📍 Based in **Peshawar, Pakistan** · Open to remote data roles and collaborations
+- 💾 Proficient in **SQL** — querying, aggregating, and wrangling relational databases with confidence
+- 🌱 Currently diving into **Machine Learning** fundamentals: regression, classification, and model evaluation
+- 🌍 Based in **Peshawar, Pakistan** · Open to remote data roles and collaborations
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
-## 🎯 Skills & Expertise
+## ⚡ Skills & Expertise
 
 | Domain | Proficiency | Tools & Libraries |
 |:-------|:-----------:|:------------------|
@@ -39,11 +39,11 @@
 | 🗄️ SQL / Databases   | ▰▰▰▰▰ Expert   | MySQL · SQLite                       |
 | 🐍 Python             | ▰▰▰▰▰ Expert   | Pandas · NumPy · Jupyter             |
 | 💻 C++                | ▰▰▰▰▰ Expert   | OOP · Data Structures · STL          |
-| 🤖 Machine Learning   | ▰▰▱▱▱ Learning | Scikit-learn · Regression            |
+| 🌱 Machine Learning   | ▰▰▱▱▱ Learning | Scikit-learn · Regression            |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -89,7 +89,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
-## 📌 Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:7057FF&height=42&text=🚀%20Featured%20Projects&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+</div>
 
 <div align="center">
 
@@ -113,7 +115,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
-## 📊 GitHub Analytics
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:70A5FD&height=42&text=📡%20GitHub%20Analytics&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+</div>
 
 <div align="center">
 
@@ -136,7 +140,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
-## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:E0AF68&height=42&text=🥇%20GitHub%20Trophies&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anascs12&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
@@ -144,7 +150,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
-## 📈 Activity Graph
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:9ECE6A&height=42&text=🌊%20Activity%20Graph&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anascs12&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
@@ -152,7 +160,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7057FF,100:70A5FD&height=3" width="100%" />
 
-## 🐍 Contribution Snake
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A1B27,100:73DACA&height=42&text=🐍%20Contribution%20Snake&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%" />
+</div>
 
 <div align="center">
   <picture>
