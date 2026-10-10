@@ -21,7 +21,7 @@
 
 Data Science student at **IMSciences Peshawar**, Pakistan, building end-to-end data projects: from collecting raw data through APIs, to analysis and machine learning, to interactive dashboards people can actually use.
 
-- 🔭 Recently: mapped **12,060 AI research papers** with sentence embeddings, and modelled **life expectancy across 138 countries** with country-grouped cross-validation.
+- 🔭 Recently: built a **daily, self-updating smog forecast** for four Pakistani cities, mapped **12,060 AI research papers** with sentence embeddings, and modelled **life expectancy across 138 countries**.
 - 🛠️ I work with Python, SQL, scikit-learn and Power BI, and I care about **honest analysis**: careful validation, clearly stated limitations, and numbers that can be reproduced.
 - 💼 Open to **data analyst and data science roles**, and available for freelance dashboard and analysis work on [Fiverr](https://www.fiverr.com/sellers/anasxm2/).
 
@@ -106,6 +106,28 @@ Data Science student at **IMSciences Peshawar**, Pakistan, building end-to-end d
 ## Featured Projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌫️ [Pakistan Smog Forecast](https://github.com/anascs12/pakistan-smog-forecast): updated automatically every morning
+
+**Problem:** every winter, smog makes Lahore's air among the most polluted in the world. Can open data give people a few days of warning?
+
+**Built:** a 1–3 day PM2.5 forecast for **Lahore, Peshawar, Islamabad and Karachi** from four years of hourly air-quality and weather data. A **GitHub Action** runs the tests, issues the forecast and republishes the page every day.
+
+**Finding:** beats "same as today" by **15–25%**, and by **21–31% in smog season**, on a winter it never saw. Calm air and a collapsed night-time mixing layer are what trap Lahore's smog.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+[![Today's forecast](https://img.shields.io/badge/Today's%20forecast-7C2D12?style=flat-square&logo=githubpages&logoColor=white)](https://anascs12.github.io/pakistan-smog-forecast/)
+
+<img src="assets/pakistan-smog-forecast.png" width="70%" alt="Live 3-day PM2.5 forecast page for four Pakistani cities" />
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -242,7 +264,7 @@ Data Science student at **IMSciences Peshawar**, Pakistan, building end-to-end d
 ## Currently Learning
 
 - **Retrieval & LLM systems:** hybrid search, re-ranking and evaluating retrieval quality
-- **Time-series forecasting:** backtesting, feature engineering and forecast evaluation
+- **Time-series forecasting:** probabilistic forecasts and validating model data against ground monitors
 - **MLOps basics:** reproducible pipelines, testing data code, and deploying models and dashboards
 - **Statistics:** experimental design and hypothesis testing on real datasets
 
