@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="48" viewBox="0 0 228 48" role="img" aria-label="Open BuildIMS">
+  <title>Open BuildIMS</title>
+  <style>.badge-bg{fill:#fff;stroke:#dfe3e9}.badge-fg{fill:#11151b}.badge-muted{fill:#667085}.badge-sep{stroke:#d2d8e0}.badge-icon{fill:none;stroke:#11151b;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}@media(prefers-color-scheme:dark){.badge-bg{fill:#0b0f14;stroke:#303741}.badge-fg{fill:#f7f8fa}.badge-muted{fill:#949eac}.badge-sep{stroke:#49515c}.badge-icon{stroke:#f7f8fa}}</style>
+  <rect class="badge-bg" x="1" y="1" width="226" height="46" rx="14"/>
+  <g class="badge-icon" transform="translate(14 12)" aria-hidden="true"><rect x="4" y="4" width="7" height="7" rx="1.5"/><rect x="13" y="4" width="7" height="7" rx="1.5"/><rect x="4" y="13" width="7" height="7" rx="1.5"/><path d="M16.5 13v7M13 16.5h7"/></g>
+  <text class="badge-muted" x="48" y="18.5" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,Helvetica,sans-serif" font-size="8.8" font-weight="700" letter-spacing="1.2">PLATFORM</text>
+  <text class="badge-fg" x="48" y="35.5" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,Helvetica,sans-serif" font-size="15.5" font-weight="720">BuildIMS</text>
+</svg>
