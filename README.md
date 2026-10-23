@@ -22,6 +22,14 @@
 
 <br />
 
+### SpyGuard
+
+An 8-phase privacy scanner that detects hidden cameras and trackers — WiFi, Bluetooth, infrared — with a desktop app, Android app and a curated spy-device database.
+
+<p align="center"><a href="https://github.com/anascs12/spyguard"><img src="https://img.shields.io/badge/SpyGuard-View_Project-blue?style=for-the-badge&logo=github" alt="Open SpyGuard"></a></p>
+
+<br />
+
 <p align="center">
   <a href="https://anascs12.github.io/pakistan-smog-forecast/">
     <img width="660" src="./assets/pakistan-smog-forecast.png" alt="Live 3-day PM2.5 forecast for Lahore, Peshawar, Islamabad and Karachi">
